@@ -1,0 +1,59 @@
+---
+baseurl: "https://eagleusb.github.io"
+title: "grumpycat tech stories."
+theme: "terminal"
+
+defaultcontentlanguage: "fr"
+languagecode: "fr"
+languagename: "French"
+
+cleandestinationdir: false
+publishdir: "public"
+staticdir: "static"
+disablehugogeneratorinject: true
+# enablerobotstxt: true
+
+paginate: 5
+
+params:
+  contentTypeName: "posts"
+  themeColor: "blue"
+  showMenuItems: 2
+  showLanguageSelector: false
+  fullWidthTheme: false
+  centerTheme: true
+  # favicon: "favicon.ico"
+  # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
+  showLastUpdated: false
+  # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
+  # updatedDatePrefix: "Updated"
+  # set all headings to their default size (depending on browser settings)
+  # oneHeadingSize = false
+  twitter:
+    creator: "eagleusb"
+    site: "eagleusb.github.io"
+
+languages:
+  fr:
+    languageName: "French"
+    title: "grumpycat tech stories."
+    subtitle: "I like cats and engineering"
+    owner: "eagleusb"
+    keywords: "devops, sre, lyon"
+    copyright: "Leslie-Alexandre DENIS"
+    menuMore: "plus..."
+    readMore: "lire..."
+    readOtherPosts: "Read other posts"
+    missingContentMessage: "Page not found..."
+    missingBackButtonLabel: "Back to home page"
+
+    params:
+      logo:
+        logoText: "grumpycat tech stories."
+        logoHomeLink: "/"
+
+    menu:
+      main:
+        - identifier: "a-propos"
+          name: "Mon Histoire"
+          url: "/a-propos"
