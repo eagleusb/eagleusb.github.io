@@ -1,5 +1,7 @@
 SHELL = /bin/bash
 
+DATE := $(shell date --rfc-3339=seconds)
+
 .PHONY = environment serve lint build test
 .RECIPEPREFIX = >
 
@@ -14,3 +16,9 @@ serve:
 
 build:
 > hugo --enableGitInfo --minify
+
+publish: build
+> cd public && \
+>   git add . && \
+>   git commit -m "chore(update) $(DATE)" && \
+>   git push
