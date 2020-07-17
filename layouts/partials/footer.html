@@ -3,16 +3,17 @@
     {{ if $.Site.Copyright }}
       <div class="copyright copyright--user">
         <span>
-          <a href="https://twitter.com/eagleusb" target="_blank">{{ $.Site.Copyright | safeHTML }}</a>
+          :: <a href="https://twitter.com/eagleusb" target="_blank">{{ $.Site.Copyright | safeHTML }}</a>
         </span>
     {{else}}
       <div class="copyright">
-        <span>© {{ now.Year }} :: Powered by Hugo</span>
+        <span>Powered by Hugo</span>
     {{end}}
-        <span>:: Based on panr terminal theme. :: {{ now.Year }} ©</span>
+        <span>:: {{ now.Year }} © ::</span>
       </div>
   </div>
 </footer>
 
 <script src="{{ "assets/main.js" | absURL }}"></script>
 <script src="{{ "assets/prism.js" | absURL }}"></script>
+<script src="{{ "assets/cat.js" | absURL }}"></script>
