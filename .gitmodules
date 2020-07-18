@@ -1,6 +1,7 @@
 [submodule "themes/terminal"]
 	path = themes/terminal
 	url = https://github.com/panr/hugo-theme-terminal.git
+	branch = master
 [submodule "public"]
 	path = public
 	url = git@github.com:eagleusb/eagleusb.github.io.git
