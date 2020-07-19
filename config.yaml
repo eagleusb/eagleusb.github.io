@@ -13,7 +13,7 @@ staticdir: "static"
 disablehugogeneratorinject: true
 # enablerobotstxt: true
 
-paginate: 5
+paginate: 1
 
 params:
   contentTypeName: "posts"
@@ -63,6 +63,9 @@ languages:
         - identifier: "handbooks"
           name: "handbooks"
           url: "/"
+        - identifier: "blog"
+          name: "blog"
+          url: "/posts"
         - identifier: "contact"
           name: "ping me"
           url: "/"
