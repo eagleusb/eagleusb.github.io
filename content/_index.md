@@ -1,11 +1,11 @@
 # {{< feather coffee >}} Hello World
 
-> - Nom : Leslie-Alexandre DENIS
-> - Ville : Lyon, France
-> - Blog : [https://write.as/grumpycat](https://write.as/grumpycat)
-> - GitHub : [https://github.com/eagleusb](https://github.com/eagleusb)
-
-{{< feather github >}} / {{< feather twitter >}} / {{< feather linkedin >}}
+> - :: Nom :: Leslie-Alexandre DENIS
+> - :: Ville  :: Lyon, France
+> - :: Blog :: [write.as/grumpycat](https://write.as/grumpycat)
+> - :: Twitter :: [twitter.com/eagleusb](https://twitter.com/eagleusb)
+> - :: LinkedIn :: [linkedin.com/in/lesliealexandredenis](https://www.linkedin.com/in/lesliealexandredenis/)
+> - :: GitHub :: [github.com/eagleusb](https://github.com/eagleusb)
 
 | Technologie           | Maitrise                                                     |
 |-----------------------|--------------------------------------------------------------|
@@ -24,4 +24,4 @@
 | Networking            | {{< feather star >}}{{< feather star >}}                     |
 | (Distributed) Storage | {{< feather star >}}{{< feather star >}}                     |
 
-[voir plus...](https://linkedin.com)
+[voir plus...](https://www.linkedin.com/in/lesliealexandredenis/)
