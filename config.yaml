@@ -68,4 +68,4 @@ languages:
           url: "/posts"
         - identifier: "contact"
           name: "ping me"
-          url: "/"
+          url: "/ping"
