@@ -18,7 +18,7 @@ paginate: 5
 params:
   contentTypeName: "posts"
   themeColor: "blue"
-  showMenuItems: 2
+  showMenuItems: 5
   showLanguageSelector: false
   fullWidthTheme: false
   centerTheme: true
@@ -60,6 +60,9 @@ languages:
         - identifier: "a-propos"
           name: "mon histoire"
           url: "/a-propos"
+        - identifier: "handbooks"
+          name: "handbooks"
+          url: "/"
         - identifier: "contact"
           name: "ping me"
           url: "/"
