@@ -1,7 +1,7 @@
 ---
 title: "Hello Friend"
 date: "2019-01-25"
-author: "Lorem Ipsum"
+author: "eagleusb"
 cover: "hello.jpg"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 showFullContent: false

@@ -5,6 +5,8 @@
 > - Blog : [https://write.as/grumpycat](https://write.as/grumpycat)
 > - GitHub : [https://github.com/eagleusb](https://github.com/eagleusb)
 
+{{< feather github >}} / {{< feather twitter >}} / {{< feather linkedin >}}
+
 | Technologie           | Maitrise                                                     |
 |-----------------------|--------------------------------------------------------------|
 | Amazon Web Services   | {{< feather star >}}{{< feather star >}}{{< feather star >}} |
@@ -23,43 +25,3 @@
 | (Distributed) Storage | {{< feather star >}}{{< feather star >}}                     |
 
 [voir plus...](https://linkedin.com)
-
----
-
-{{< feather circle >}}
-{{< feather box >}}
-{{< feather codesandbox >}}
-{{< feather cpu >}}
-{{< feather github >}}
-{{< feather twitter >}}
-{{< feather linkedin >}}
-{{< feather heart >}}
-{{< feather terminal >}}
-
----
-
-```makefile
-SHELL = /bin/bash
-
-.PHONY = environment serve lint build test
-.RECIPEPREFIX = >
-
-environment:
-> @echo -e "\nhugo environment:\n"
-> @hugo env
-```
-
----
-
-{{<
-    code language="go" title="golang is superior" id="1"
-    expand="plus..." collapse="reduire" isCollapsed="false"
->}}
-package main
-
-import log
-
-func main() {
-log.Print("Hello World")
-}
-{{< /code >}}
