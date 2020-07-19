@@ -12,6 +12,6 @@ showFullContent: false
 Vous pouvez me contacter sur Twitter, LinkedIn etc... mais aussi
 directement par email [1].
 
-> [git@eagleusb.com](mailto:git@eagleusb.com)
+> {{< cloakemail address="git@eagleusb.com" query="subject=Hello Leslie" >}}
 
 [1] : pas de spam ou démarchages commerciaux sans rapport

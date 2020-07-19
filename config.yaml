@@ -1,7 +1,9 @@
 ---
 baseurl: "https://eagleusb.github.io"
 title: "grumpycat tech stories."
-theme: "terminal"
+theme:
+  - "terminal"
+  - "cloak-email"
 
 defaultcontentlanguage: "fr"
 languagecode: "fr"

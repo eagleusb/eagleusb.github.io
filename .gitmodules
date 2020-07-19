@@ -6,3 +6,7 @@
 	path = public
 	url = git@github.com:eagleusb/eagleusb.github.io.git
 	branch = master
+[submodule "themes/cloak-email"]
+	path = themes/cloak-email
+	url = https://github.com/martignoni/hugo-cloak-email.git
+	branch = master
