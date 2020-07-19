@@ -62,7 +62,7 @@ languages:
           url: "/a-propos"
         - identifier: "handbooks"
           name: "handbooks"
-          url: "/"
+          url: "/handbooks"
         - identifier: "blog"
           name: "blog"
           url: "/posts"
