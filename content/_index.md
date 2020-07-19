@@ -8,7 +8,7 @@ Voici quelques lignes à propos de mon travail et mon parcours :)
 package main
 
 const (
-  name := "Leslie-Alexandre DENIS
+  name := "Leslie-Alexandre DENIS"
   city := "Lyon, France"
 )
 ```
