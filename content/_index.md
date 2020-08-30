@@ -1,4 +1,4 @@
-# {{< feather coffee >}} Hello World
+# {{< feather icon="coffee" >}} Hello World
 
 Voici quelques lignes à propos de mon travail et mon parcours :)
 
@@ -23,21 +23,21 @@ const (
 
 ## Competence
 
-| Technologie           | Maitrise                                                     |
-|-----------------------|--------------------------------------------------------------|
-| Amazon Web Services   | {{< feather star >}}{{< feather star >}}{{< feather star >}} |
-| Google Cloud Platform | {{< feather star >}}{{< feather star >}}{{< feather star >}} |
-| Microsoft Azure       | {{< feather star >}}                                         |
-| {{< feather minus >}} | {{< feather minus >}}                                        |
-| Ansible               | {{< feather star >}}{{< feather star >}}{{< feather star >}} |
-| Puppet                | {{< feather star >}}{{< feather star >}}                     |
-| Terraform             | {{< feather star >}}{{< feather star >}}{{< feather star >}} |
-| {{< feather minus >}} | {{< feather minus >}}                                        |
-| Kubernetes            | {{< feather star >}}{{< feather star >}}{{< feather star >}} |
-| Consul                | {{< feather star >}}{{< feather star >}}{{< feather star >}} |
-| {{< feather minus >}} | {{< feather minus >}}                                        |
-| Linux Systems         | {{< feather star >}}{{< feather star >}}{{< feather star >}} |
-| Networking            | {{< feather star >}}{{< feather star >}}                     |
-| (Distributed) Storage | {{< feather star >}}{{< feather star >}}                     |
+| Technologie                | Maitrise                           |
+|----------------------------|------------------------------------|
+| Amazon Web Services        | {{< feather icon=star number=5 >}} |
+| Google Cloud Platform      | {{< feather icon=star number=5 >}} |
+| Microsoft Azure            | {{< feather icon=star number=2 >}} |
+| {{< feather icon=minus >}} | {{< feather icon=minus >}}         |
+| Ansible                    | {{< feather icon=star number=5 >}} |
+| Puppet                     | {{< feather icon=star number=3 >}} |
+| Terraform                  | {{< feather icon=star number=5 >}} |
+| {{< feather icon=minus >}} | {{< feather icon=minus >}}         |
+| Kubernetes                 | {{< feather icon=star number=5 >}} |
+| Consul                     | {{< feather icon=star number=5 >}} |
+| {{< feather icon=minus >}} | {{< feather icon=minus >}}         |
+| Linux Systems              | {{< feather icon=star number=5 >}} |
+| Networking                 | {{< feather icon=star number=3 >}} |
+| (Distributed) Storage      | {{< feather icon=star number=3 >}} |
 
 [voir plus...](https://www.linkedin.com/in/lesliealexandredenis/)

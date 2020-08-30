@@ -1,3 +1,12 @@
-{{ with .Get 0 }}
-<i data-feather="{{.}}"></i>
+{{ if .IsNamedParams }}
+{{ $icon := .Get "icon" }}
+{{ $number := .Get "number" }}
+
+{{ if and $icon $number }}
+{{ range (seq $number) }}
+<i data-feather="{{ $icon }}"></i>
+{{ end }}
+{{ else }}
+<i data-feather="{{ $icon }}"></i>
+{{ end }}
 {{ end }}
