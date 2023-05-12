@@ -12,7 +12,7 @@ environment:
 serve:
 > hugo server \
 >   --baseURL http://localhost \
->   --noHTTPCache --print-mem --templateMetrics --templateMetricsHints
+>   --noHTTPCache --printMemoryUsage --templateMetrics --templateMetricsHints
 
 build:
 > hugo --enableGitInfo --minify
