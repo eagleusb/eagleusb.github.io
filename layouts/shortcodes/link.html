@@ -1,0 +1,4 @@
+{{ $title := .Get 0 }}
+{{ $url := .Get 1 }}
+<a href="{{ $url | safeURL }}" {{ if strings.HasPrefix $url "http" }} target="_blank" {{ end }}>{{ $title | markdownify
+  }}</a>
