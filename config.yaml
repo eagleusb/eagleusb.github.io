@@ -13,7 +13,7 @@ cleandestinationdir: false
 publishdir: "public"
 staticdir: "static"
 disablehugogeneratorinject: true
-# enablerobotstxt: true
+enablerobotstxt: true
 
 paginate: 1
 
@@ -60,12 +60,12 @@ languages:
         - identifier: "home"
           name: "accueil"
           url: "/"
-        - identifier: "a-propos"
-          name: "mon histoire"
-          url: "/a-propos"
-        - identifier: "handbooks"
-          name: "handbooks"
-          url: "/handbooks"
+        - identifier: "my-story"
+          name: "my story"
+          url: "/my-story"
+        - identifier: "photobook"
+          name: "photo book"
+          url: "https://photo.eagleusb.com"
         - identifier: "blog"
           name: "blog"
           url: "https://write.as/grumpycat"
