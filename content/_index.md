@@ -37,7 +37,7 @@ You can reach me on these various platforms.
 
 ## Skills
 
-During the last >15 years, I encountered a range of different engineering problems {{< feather icon=minus >}};
+During the last >15 years, I encountered a range of different engineering problems;
 leading to a lot of research, experiment, test, delivery from the lowest levels of network and systems
 to orchestration of high scale infrastructure, performant and understandable CI / CD tooling, automation, data modeling...
 

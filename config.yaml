@@ -25,8 +25,7 @@ params:
   fullWidthTheme: false
   centerTheme: true
   favicon: "favicon.ico"
-  # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
-  showLastUpdated: false
+  showLastUpdated: true
   # Provide a string as a prefix for the last update date.
   # By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
   # updatedDatePrefix: "Updated"
@@ -49,22 +48,17 @@ languages:
     readOtherPosts: "Read other posts"
     missingContentMessage: "Page not found..."
     missingBackButtonLabel: "Back to home page"
-
     params:
       logo:
         logoText: "grumpycat tech stories."
         logoHomeLink: "/"
-
     menu:
       main:
-        - identifier: "home"
-          name: "accueil"
-          url: "/"
         - identifier: "my-story"
           name: "my story"
           url: "/my-story"
         - identifier: "photobook"
-          name: "photo book"
+          name: "photobook"
           url: "https://photo.eagleusb.com"
         - identifier: "blog"
           name: "blog"
