@@ -3,15 +3,15 @@
 &lt;p>You can reach me on any mentioned platform, GitHub, Twitter, LinkedIn or classicly through an email [1].&lt;/p>
 &lt;blockquote>
 &lt;style>
-#span-793b4e69.cloaked-e-mail:before {
+#span-01ca53e3.cloaked-e-mail:before {
 content:attr(data-domain) "\0040" attr(data-user);
 unicode-bidi:bidi-override;
 direction:rtl;
 }
 &lt;/style>
-&amp;#32;&lt;span class="cloaked-e-mail" data-user="tig" data-domain="moc.bsuelgae" id="span-793b4e69">&lt;/span>&amp;#32;
-&lt;script id="script-793b4e69">
-var scriptTag = document.getElementById("script-793b4e69");
+&amp;#32;&lt;span class="cloaked-e-mail" data-user="tig" data-domain="moc.bsuelgae" id="span-01ca53e3">&lt;/span>&amp;#32;
+&lt;script id="script-01ca53e3">
+var scriptTag = document.getElementById("script-01ca53e3");
 var link = document.createElement("a");
 var address = "tig".split('').reverse().join('') + "@" + "moc.bsuelgae".split('').reverse().join('') + "?" + "eilseL olleH=tcejbus".split('').reverse().join('');
 link.href = "mailto" + ":" + address;
