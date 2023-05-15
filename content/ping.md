@@ -4,11 +4,10 @@ date: "2020-07-19"
 author: "eagleusb"
 ---
 
-# Contact
+# Pong
 
-Vous pouvez me contacter sur Twitter, LinkedIn etc... mais aussi
-directement par email [1].
+You can reach me on any mentioned platform, GitHub, Twitter, LinkedIn or classicly through an email [1].
 
 > {{< cloakemail address="git@eagleusb.com" query="subject=Hello Leslie" >}}
 
-[1] : pas de spam ou démarchages commerciaux sans rapport
+[1] : no spam or commercial solicitations
