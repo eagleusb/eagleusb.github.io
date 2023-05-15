@@ -1,18 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>grumpycat tech stories.</title><link>https://eagleusb.github.io/</link><description>Recent content on grumpycat tech stories.</description><generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>LAD</copyright><atom:link href="https://eagleusb.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>My Story</title><link>https://eagleusb.github.io/my-story/</link><pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate><guid>https://eagleusb.github.io/my-story/</guid><description>TBD :^)</description><content>&lt;p>&lt;strong>TBD&lt;/strong> :^)&lt;/p></content></item><item><title>Ping Me</title><link>https://eagleusb.github.io/ping/</link><pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate><guid>https://eagleusb.github.io/ping/</guid><description>Contact Vous pouvez me contacter sur Twitter, LinkedIn etc&amp;hellip; mais aussi directement par email [1].
-&amp;#32;&amp;#32; [1] : pas de spam ou démarchages commerciaux sans rapport</description><content>&lt;h1 id="contact">Contact&lt;/h1>
-&lt;p>Vous pouvez me contacter sur Twitter, LinkedIn etc&amp;hellip; mais aussi
-directement par email [1].&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>grumpycat tech stories.</title><link>https://eagleusb.github.io/</link><description>Recent content on grumpycat tech stories.</description><generator>Hugo -- gohugo.io</generator><language>fr</language><copyright>LAD</copyright><atom:link href="https://eagleusb.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>My Story</title><link>https://eagleusb.github.io/my-story/</link><pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate><guid>https://eagleusb.github.io/my-story/</guid><description>TBD :^)</description><content>&lt;p>&lt;strong>TBD&lt;/strong> :^)&lt;/p></content></item><item><title>Ping Me</title><link>https://eagleusb.github.io/ping/</link><pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate><guid>https://eagleusb.github.io/ping/</guid><description>Pong You can reach me on any mentioned platform, GitHub, Twitter, LinkedIn or classicly through an email [1].
+&amp;#32;&amp;#32; [1] : no spam or commercial solicitations</description><content>&lt;h1 id="pong">Pong&lt;/h1>
+&lt;p>You can reach me on any mentioned platform, GitHub, Twitter, LinkedIn or classicly through an email [1].&lt;/p>
 &lt;blockquote>
 &lt;style>
-#span-1cf60a5d.cloaked-e-mail:before {
+#span-793b4e69.cloaked-e-mail:before {
 content:attr(data-domain) "\0040" attr(data-user);
 unicode-bidi:bidi-override;
 direction:rtl;
 }
 &lt;/style>
-&amp;#32;&lt;span class="cloaked-e-mail" data-user="tig" data-domain="moc.bsuelgae" id="span-1cf60a5d">&lt;/span>&amp;#32;
-&lt;script id="script-1cf60a5d">
-var scriptTag = document.getElementById("script-1cf60a5d");
+&amp;#32;&lt;span class="cloaked-e-mail" data-user="tig" data-domain="moc.bsuelgae" id="span-793b4e69">&lt;/span>&amp;#32;
+&lt;script id="script-793b4e69">
+var scriptTag = document.getElementById("script-793b4e69");
 var link = document.createElement("a");
 var address = "tig".split('').reverse().join('') + "@" + "moc.bsuelgae".split('').reverse().join('') + "?" + "eilseL olleH=tcejbus".split('').reverse().join('');
 link.href = "mailto" + ":" + address;
@@ -21,4 +20,4 @@ scriptTag.parentElement.insertBefore(link, scriptTag.previousElementSibling);
 scriptTag.parentElement.removeChild(scriptTag.previousElementSibling)
 &lt;/script>
 &lt;/blockquote>
-&lt;p>[1] : pas de spam ou démarchages commerciaux sans rapport&lt;/p></content></item></channel></rss>
+&lt;p>[1] : no spam or commercial solicitations&lt;/p></content></item></channel></rss>
