@@ -1,12 +1,13 @@
-{{ if .IsNamedParams }}
+{{- if .IsNamedParams }}
 {{ $icon := .Get "icon" }}
-{{ $number := .Get "number" }}
+{{ $number := default 1 (.Get "number") }}
+{{ $filled := default 0 (.Get "filled") }}
+{{ $unfilled := default 5 (sub 5 (int $filled)) }}
 
-{{ if and $icon $number }}
-{{ range (seq $number) }}
+{{- if gt $number 1 }}
+{{- range first $filled (seq $number) }}<i data-feather="{{ $icon }}" class="filled"></i>{{ end }}
+{{- range after $filled (seq $number) }}<i data-feather="{{ $icon }}"></i>{{ end }}
+{{- else }}
 <i data-feather="{{ $icon }}"></i>
-{{ end }}
-{{ else }}
-<i data-feather="{{ $icon }}"></i>
-{{ end }}
-{{ end }}
+{{- end }}
+{{- end }}
