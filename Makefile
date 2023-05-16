@@ -21,4 +21,4 @@ publish: build
 > cd public && \
 >   git add . && \
 >   git commit -m "chore(update) $(DATE)" && \
->   git push
+>   git push origin master
