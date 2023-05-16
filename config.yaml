@@ -66,3 +66,6 @@ languages:
         - identifier: "contact"
           name: "ping me"
           url: "/ping"
+        - identifier: "resume"
+          name: "resume"
+          url: "/assets/resume-lad.pdf"
