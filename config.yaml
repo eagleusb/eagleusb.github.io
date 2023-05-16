@@ -60,12 +60,18 @@ languages:
         - identifier: "photobook"
           name: "photobook"
           url: "https://photo.eagleusb.com"
+          params:
+            newTab: true
         - identifier: "blog"
           name: "blog"
           url: "https://write.as/grumpycat"
+          params:
+            newTab: true
         - identifier: "contact"
           name: "ping me"
           url: "/ping"
         - identifier: "resume"
           name: "resume"
           url: "/assets/resume-lad.pdf"
+          params:
+            newTab: true
