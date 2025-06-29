@@ -15,7 +15,8 @@ staticdir: "static"
 disablehugogeneratorinject: true
 enablerobotstxt: true
 
-paginate: 1
+pagination:
+  pagerSize: 1
 
 params:
   contentTypeName: "posts"
