@@ -1,6 +1,11 @@
 table {
   margin: 40px auto;
   text-align: center;
+  width: 100%;
+}
+
+th {
+  text-align: center;
 }
 
 .filled {
