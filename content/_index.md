@@ -15,8 +15,8 @@ const (
 )
 
 var (
- currentCompany string = "BeReal"
- currentRole    string = "Senior Site Reliability Engineer"
+ currentCompany string = "TenTen"
+ currentRole    string = "Lead Site Reliability Engineer"
  openToWork     bool   = true
 )
 
@@ -33,7 +33,7 @@ You can reach me on these various platforms.
 > - :: Blog :: {{< link "write.as/grumpycat" "https://write.as/grumpycat" >}}
 > - :: LinkedIn :: {{< link "linkedin.com/in/lesliealexandredenis" "https://www.linkedin.com/in/lesliealexandredenis/" >}}
 > - :: Malt :: {{< link "malt.fr/profile/lesliealexandredenis" "https://www.malt.fr/profile/lesliealexandredenis" >}}
-> - :: Twitter :: {{< link "twitter.com/eagleusb" "https://twitter.com/eagleusb" >}}
+> - :: Bsky :: {{< link "bsky.app/profile/foobar.eagleusb.com" "https://bsky.app/profile/foobar.eagleusb.com" >}}
 
 ## Skills
 
