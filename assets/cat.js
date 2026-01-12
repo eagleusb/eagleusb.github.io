@@ -4,6 +4,10 @@ feather.replace({
   color: '#1d6cd7',
 });
 
+/**
+ * Generates a string of unicode symbols and updates the window hash.
+ * It repeats every 50ms.
+ */
 function loop() {
   var i, n, s = '';
 
