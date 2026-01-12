@@ -1,13 +1,12 @@
 ---
 baseurl: "https://eagleusb.github.io"
-title: "grumpycat tech stories."
+
 theme:
   - "terminal"
   - "cloak-email"
 
-defaultcontentlanguage: "fr"
-languagecode: "fr"
-languagename: "French"
+defaultContentLanguage: "en"
+defaultContentLanguageInSubdir: true
 
 cleandestinationdir: false
 publishdir: "public"
@@ -34,44 +33,54 @@ params:
   # updatedDatePrefix: "Updated"
   # set all headings to their default size (depending on browser settings)
   # oneHeadingSize = false
+  logo:
+    logoText: "grumpycat tech stories."
+    logoHomeLink: "/"
+
+title: "grumpycat tech stories."
+subtitle: "I like cats and engineering"
+owner: "eagleusb"
+keywords: "freelance, cto, devops, platform engineer, site reliability engineer, sre, lyon"
+copyright: "Leslie-Alexandre DENIS"
+
+menu:
+  main:
+    - identifier: "photobook"
+      name: "photobook"
+      url: "https://photo.eagleusb.com"
+      params:
+        newTab: true
+    - identifier: "contact"
+      name: "ping me"
+      url: "/ping"
+    - identifier: "resume"
+      name: "resume"
+      url: "/assets/resume-leslie-alexandre-denis.pdf"
+      params:
+        newTab: true
+    - identifier: "gh"
+      name: "github"
+      url: "https://github.com/eagleusb"
+      params:
+        newTab: true
+    - identifier: "linkedin"
+      name: "linkedin"
+      url: "https://www.linkedin.com/in/lesliealexandredenis/"
+      params:
+        newTab: true
 
 languages:
   fr:
     languageName: "French"
-    title: "grumpycat tech stories."
-    subtitle: "I like cats and engineering"
-    owner: "eagleusb"
-    keywords: "devops, sre, lyon"
-    copyright: "LAD"
     menuMore: "plus..."
     readMore: "lire..."
     readOtherPosts: "Read other posts"
     missingContentMessage: "Page not found..."
     missingBackButtonLabel: "Back to home page"
-    params:
-      logo:
-        logoText: "grumpycat tech stories."
-        logoHomeLink: "/"
-    menu:
-      main:
-        - identifier: "my-story"
-          name: "my story"
-          url: "/my-story"
-        - identifier: "photobook"
-          name: "photobook"
-          url: "https://photo.eagleusb.com"
-          params:
-            newTab: true
-        - identifier: "blog"
-          name: "blog"
-          url: "https://write.as/grumpycat"
-          params:
-            newTab: true
-        - identifier: "contact"
-          name: "ping me"
-          url: "/ping"
-        - identifier: "resume"
-          name: "resume"
-          url: "/assets/resume-lad.pdf"
-          params:
-            newTab: true
+  en:
+    languageName: "English"
+    menuMore: "more..."
+    readMore: "read more..."
+    readOtherPosts: "+"
+    missingContentMessage: "page not found..."
+    missingBackButtonLabel: "back to home"

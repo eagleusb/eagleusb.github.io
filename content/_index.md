@@ -16,7 +16,7 @@ const (
 
 var (
  currentCompany string = "TenTen"
- currentRole    string = "Lead Site Reliability Engineer"
+ currentRole    string = "Head of Platform"
  openToWork     bool   = true
 )
 
@@ -27,8 +27,7 @@ func main() {
 
 ## Contact
 
-You can reach me on these various platforms.
-<!-- markdownlint-disable MD034 -->
+> You can reach me on these various platforms.
 > - :: GitHub :: {{< link "github.com/eagleusb" "https://github.com/eagleusb" >}}
 > - :: Blog :: {{< link "write.as/grumpycat" "https://write.as/grumpycat" >}}
 > - :: LinkedIn :: {{< link "linkedin.com/in/lesliealexandredenis" "https://www.linkedin.com/in/lesliealexandredenis/" >}}
@@ -37,15 +36,11 @@ You can reach me on these various platforms.
 
 ## Skills
 
-During the last >15 years, I encountered a range of different engineering and team problems;
-leading to a lot of research, experiment, test, delivery from the lowest levels of network and systems
-to orchestration of high scale infrastructure, performant and understandable CI / CD tooling, automation, data modeling...
-
-I think that with seniority, the point is to clearly identify the problem, the time frame and the
-complexity; expressively not focusing on the tools at first.
-
-However the market is so focused on the tools x year of usage, that below is an overview of technologies seen during that time.
-It is not exhaustive and the table representation really bad for now :)
+> Over the past 15+ years, I've tackled diverse engineering and team challenges, conducting research, experimentation, and delivering solutions across the entire technology stack; from low-level networking and systems to orchestrating large-scale infrastructure. My work spans performant CI/CD pipelines, automation frameworks, data...
+> 
+> I believe that true seniority lies in clearly defining the problem, timeline, and complexity before considering specific tools. The approach matters more than the technology itself.
+> 
+> However, recognizing that the industry often emphasizes tools and years of experience, I've included a technology overview below. Please note this list isn't exhaustive, and I acknowledge the table format could use improvement :)
 
 | Technology                       | Experience (0-5)                             |
 |----------------------------------|----------------------------------------------|
