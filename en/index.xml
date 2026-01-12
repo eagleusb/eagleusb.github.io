@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>grumpycat tech stories.</title><link>https://eagleusb.github.io/en/</link><description>Recent content on grumpycat tech stories.</description><generator>Hugo</generator><language>en</language><copyright>Leslie-Alexandre DENIS</copyright><atom:link href="https://eagleusb.github.io/en/index.xml" rel="self" type="application/rss+xml"/><item><title>My Story</title><link>https://eagleusb.github.io/en/my-story/</link><pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate><guid>https://eagleusb.github.io/en/my-story/</guid><description>&lt;p&gt;&lt;strong&gt;TBD&lt;/strong&gt; :^)&lt;/p&gt;</description></item><item><title>Ping Me</title><link>https://eagleusb.github.io/en/ping/</link><pubDate>Sun, 19 Jul 2020 00:00:00 +0000</pubDate><guid>https://eagleusb.github.io/en/ping/</guid><description>&lt;h1 id="pong"&gt;Pong&lt;/h1&gt;
+&lt;p&gt;You can reach me on any mentioned platform, GitHub, Twitter, LinkedIn or classicly through an email [1].&lt;/p&gt;
+&lt;blockquote&gt;
+
+&lt;style&gt;
+ #span-b595ff59.cloaked-e-mail:before {
+ content:attr(data-domain) "\0040" attr(data-user);
+ unicode-bidi:bidi-override;
+ direction:rtl;
+ }
+&lt;/style&gt;
+&amp;#32;&lt;span class="cloaked-e-mail" data-user="tig" data-domain="moc.bsuelgae" id="span-b595ff59"&gt;&lt;/span&gt;&amp;#32;
+
+&lt;script id="script-b595ff59"&gt;
+ var scriptTag = document.getElementById("script-b595ff59");
+ var link = document.createElement("a");
+ var address = "tig".split('').reverse().join('') + "@" + "moc.bsuelgae".split('').reverse().join('') + "?" + "eilseL olleH=tcejbus".split('').reverse().join('');
+ link.href = "mailto" + ":" + address;
+ link.innerText = address.split('?')[0];
+ scriptTag.parentElement.insertBefore(link, scriptTag.previousElementSibling);
+ scriptTag.parentElement.removeChild(scriptTag.previousElementSibling)
+&lt;/script&gt;
+
+
+&lt;/blockquote&gt;
+&lt;p&gt;[1] : no spam or commercial solicitations&lt;/p&gt;</description></item></channel></rss>
