@@ -3,16 +3,16 @@
 &lt;blockquote&gt;
 
 &lt;style&gt;
- #span-c6fb179c.cloaked-e-mail:before {
+ #span-81896d0b.cloaked-e-mail:before {
  content:attr(data-domain) "\0040" attr(data-user);
  unicode-bidi:bidi-override;
  direction:rtl;
  }
 &lt;/style&gt;
-&amp;#32;&lt;span class="cloaked-e-mail" data-user="tig" data-domain="moc.bsuelgae" id="span-c6fb179c"&gt;&lt;/span&gt;&amp;#32;
+&amp;#32;&lt;span class="cloaked-e-mail" data-user="tig" data-domain="moc.bsuelgae" id="span-81896d0b"&gt;&lt;/span&gt;&amp;#32;
 
-&lt;script id="script-c6fb179c"&gt;
- var scriptTag = document.getElementById("script-c6fb179c");
+&lt;script id="script-81896d0b"&gt;
+ var scriptTag = document.getElementById("script-81896d0b");
  var link = document.createElement("a");
  var address = "tig".split('').reverse().join('') + "@" + "moc.bsuelgae".split('').reverse().join('') + "?" + "eilseL olleH=tcejbus".split('').reverse().join('');
  link.href = "mailto" + ":" + address;
