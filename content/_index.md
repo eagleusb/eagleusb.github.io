@@ -29,10 +29,12 @@ func main() {
 
 > You can reach me on these various platforms.
 > - :: GitHub :: {{< link "github.com/eagleusb" "https://github.com/eagleusb" >}}
-> - :: Blog :: {{< link "write.as/grumpycat" "https://write.as/grumpycat" >}}
 > - :: LinkedIn :: {{< link "linkedin.com/in/lesliealexandredenis" "https://www.linkedin.com/in/lesliealexandredenis/" >}}
+> - :: collective.work :: {{< link "" "" >}}
 > - :: Malt :: {{< link "malt.fr/profile/lesliealexandredenis" "https://www.malt.fr/profile/lesliealexandredenis" >}}
 > - :: Bsky :: {{< link "bsky.app/profile/foobar.eagleusb.com" "https://bsky.app/profile/foobar.eagleusb.com" >}}
+> - :: Blog :: {{< link "leaf.eagleusb.com" "https://leaf.eagleusb.com/" >}}
+> - :: Blog (old) :: {{< link "write.as/grumpycat" "https://write.as/grumpycat" >}}
 
 ## Skills
 

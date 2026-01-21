@@ -60,12 +60,12 @@ menu:
         newTab: true
     - identifier: "gh"
       name: "github"
-      url: "https://github.com/eagleusb"
+      url: "https://gh.eagleusb.com"
       params:
         newTab: true
     - identifier: "linkedin"
       name: "linkedin"
-      url: "https://www.linkedin.com/in/lesliealexandredenis/"
+      url: "https://linkedin.eagleusb.com"
       params:
         newTab: true
 
