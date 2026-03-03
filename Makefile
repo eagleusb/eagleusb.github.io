@@ -9,12 +9,16 @@ environment:
 > @echo -e "\nhugo environment:\n"
 > @hugo env
 
-serve:
+serve: clean
 > hugo server \
 >   --baseURL http://localhost \
 >   --noHTTPCache --printMemoryUsage --templateMetrics --templateMetricsHints
 
-build:
+clean:
+> cd public && \
+> 	find . -not -name '.git' -delete
+
+build: clean
 > hugo --enableGitInfo --minify
 
 publish: build
