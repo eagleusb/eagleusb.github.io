@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/grumpycat
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://eagleusb.github.io
+  * I am grumpycat (https://keybase.io/grumpycat) on keybase.
+  * I have a public key with fingerprint 8178 B867 E24B 3104 D99B  22F4 04A6 265A BFA8 930B
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01012f07977e969cb7991f18674accbdcca821835210e5d3a7f3e217a30f167996110a",
+      "fingerprint": "8178b867e24b3104d99b22f404a6265abfa8930b",
+      "host": "keybase.io",
+      "key_id": "04a6265abfa8930b",
+      "kid": "01012f07977e969cb7991f18674accbdcca821835210e5d3a7f3e217a30f167996110a",
+      "uid": "6c7ffd00e4b8058054586b887d8a3c19",
+      "username": "grumpycat"
+    },
+    "service": {
+      "hostname": "eagleusb.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1772580411,
+  "expire_in": 157680000,
+  "prev": "b8831d2eca2d0c03dabdbb5ae62c6e8d6ae8bcc28eedfea2e8c47bf5164b97c3",
+  "seqno": 70,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.17
+Comment: https://keybase.io/crypto
+
+yMIoAnicrZJ9aI1RHMfvho01bUYW1uT5Q6u9nfO8nudSE39wESaTP8x13p57n22e
+ez3Pc6/NulkmZcOwGvlnkz8Uk9ckZiG1obWSkImQory/pZScx8tf/nU6dTq/8/1+
+zvd3OjcmjwvlZeWlboem1tO3Wbev9aZC9jFnXqtEEqxFCrdKjfzXwpsY9/xoo82k
+sAQggLIFDNMwuKmblBimCS2IdEPFlBJGKUYyRIomQ8A1pmDDUrgMDawAC+pCrEMI
+sFQhWbYT427StR1fYBE0EBEQLqtEgUBlpklk2VKBinVZ1zCxMDIVQIQxnvAChwhH
+sMer7ISoiU30d7x/9f85d+oXTqeGZTEAuEoQ0MRUNaQThAyGsEKhGQg97jp4Exfq
+mJvalGyh2JcyFZIop23Kg5cNWvkj4TjWxFMeqYrZfjxFfreVdBN+giaaxHnc95Ne
+OPD7LcnAsIWT6B9UlNgOE88pHGnuenbCkcJQKKlvB2xoGLKIqEJYIfHmpO3yqB0o
+NENHQIzgHp4WSJFfgUzmFMsMUKAwTBghGua6THWOmI45IpTKiHNmcSxzRFWDWBrU
+VWIaVJGC5jY7CSlsCKiPY4Lp2TEH+ymXS5nrV9ePD2XlhXImZAf/LJQ3qfDv71tX
+nftj7tremfnLBiOfJo9GWqbteVp+odjdWOK0161Z8K79493FB0/N2fCjLH9saKw+
+8+jIfnfGc7n3ROXhus663IwXqbzyhQ88XHUSjKT56oX9XunWA59mvX+SVVBdVuHl
+LO+inSOjZ8cir8v7e4q6PzztGm5edBG+qHEbdu3VH0t9x482n+vj8wvAo8zp9Nrm
+tpvzvjZcunwr0t+G1wB3aXnts1nR3fUk8iaZk/3i26Epe0uLl3wsmd2TGu0YLhu5
+k9w2VNnNELMLduyvPveypm/a9J6R+PgyreO7uupmbeetlY2vThU27BwYdyTeUHxg
+4P7gva32ilfb3+8rkrsebD7/+UzBxJ+ywD2D
+=4xs3
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/grumpycat
+
+==================================================================
