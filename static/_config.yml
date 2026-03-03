@@ -1,0 +1,4 @@
+# this is a jekyl configuration file, for github pages customization only
+# see https://jekyllrb.com/docs/configuration/ - https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll
+
+include: [".well-known"]
