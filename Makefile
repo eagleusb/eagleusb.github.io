@@ -25,4 +25,8 @@ publish: build
 > cd public && \
 >   git add . && \
 >   git commit -m "chore(update) $(DATE)" && \
->   git push origin master
+>   git push origin master && \
+>   cd .. && \
+>   git add public && \
+>   git commit -m "chore(module) update public module to $(DATE)" && \
+>   git push origin develop
