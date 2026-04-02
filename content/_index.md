@@ -30,9 +30,8 @@ func main() {
 > You can reach me on these various platforms.
 > - :: GitHub :: {{< link "github.com/eagleusb" "https://github.com/eagleusb" >}}
 > - :: LinkedIn :: {{< link "linkedin.com/in/lesliealexandredenis" "https://www.linkedin.com/in/lesliealexandredenis/" >}}
-> - :: collective.work :: {{< link "" "" >}}
-> - :: Malt :: {{< link "malt.fr/profile/lesliealexandredenis" "https://www.malt.fr/profile/lesliealexandredenis" >}}
 > - :: Bsky :: {{< link "bsky.app/profile/foobar.eagleusb.com" "https://bsky.app/profile/foobar.eagleusb.com" >}}
+> - :: Malt :: {{< link "malt.fr/profile/lesliealexandredenis" "https://www.malt.fr/profile/lesliealexandredenis" >}}
 > - :: Blog :: {{< link "leaf.eagleusb.com" "https://leaf.eagleusb.com/" >}}
 > - :: Blog (old) :: {{< link "write.as/grumpycat" "https://write.as/grumpycat" >}}
 
